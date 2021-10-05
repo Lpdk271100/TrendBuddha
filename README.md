@@ -1,0 +1,2 @@
+# TrendBuddha
+No Bugs
